@@ -1,2 +1,2 @@
 # manish2-repo
-author manish jagtap
+author manish (manish2)
